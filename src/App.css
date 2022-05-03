@@ -23,6 +23,9 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.imgurl {
+  width: 100px;
+}
 
 .App-link {
   color: #61dafb;
